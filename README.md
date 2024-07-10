@@ -13,4 +13,5 @@
   
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imigi&layout=compact)
-[![Sunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imigi)](https://github.com/anuraghazra/github-readme-stats)
+
+![Sunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imigi)
