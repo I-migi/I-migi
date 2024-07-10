@@ -1,7 +1,7 @@
 ## Sunwoo's github 👋
 
 
-![header](https://sunwoo.vercel.app/api?type=slice)
+
 
 <p>
   
