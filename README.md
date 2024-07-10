@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username={i-migi(string)})]
+[![github stats](https://github-readme-stats.vercel.app/api?username={I-migi(string)})]
