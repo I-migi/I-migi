@@ -1,6 +1,7 @@
 ## Sunwoo's github 👋
 
- 
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule&fontSize=90)
+
 <p>
   
 [![Naver Badge](https://img.shields.io/badge/-sunn1017@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sunn1017@naver.com)](mailto:sunn1017@naver.com)
@@ -14,4 +15,4 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imigi&layout=compact)
 
-![Sunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imigi)
+
