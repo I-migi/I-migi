@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 [![github stats](https://github-readme-stats.vercel.app/api?username={I-migi(string)})](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={I-migi(string)})](https://github.com/anuraghazra/github-readme-stats)
 
