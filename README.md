@@ -18,5 +18,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imigi&layout=compact)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imigi&hide=contribs,prs&show_icons=true&theme=darkgray)
 
 
