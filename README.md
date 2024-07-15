@@ -18,6 +18,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imigi&layout=compact)
 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=imigi)](https://velog.io/@i-migi) 
 
 
 
