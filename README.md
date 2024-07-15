@@ -20,7 +20,8 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=imigi0104)](https://velog.io/@i-migi0104) 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=imigi0104)](https://github.com/imigi0104/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=imigi0104)](https://velog.io/@i-migi0104)
+
 
 
 
