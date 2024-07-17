@@ -23,5 +23,5 @@
 </p>
 
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f52a5bd4-118a-4b03-8213-afd2d6c7e009/deploy-status)](https://app.netlify.com/sites/leesunwoo/deploys)
 
