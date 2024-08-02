@@ -16,7 +16,9 @@
   </p>
   
  <p>
-   
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imigi&hide=contribs,prs&show_icons=true&theme=테마)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imigi&layout=compact)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=imigi0104)](https://velog.io/@i-migi0104)
