@@ -24,5 +24,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=imigi0104)](https://velog.io/@i-migi0104)
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-migi&hide=contribs,prs&show_icons=true&theme=테마)
+
 
 
