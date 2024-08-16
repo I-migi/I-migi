@@ -13,18 +13,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
-  </p>
-  
- <p>
-
- !(https://github-readme-stats.vercel.app/api?username=Imigi&hide=contribs,prs&show_icons=true&theme=테마)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imigi&layout=compact)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=imigi0104)](https://velog.io/@i-migi0104)
 </p>
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-migi&hide=contribs,prs&show_icons=true&theme=테마)
 
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=I-migi&theme=dark&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
